@@ -1,0 +1,132 @@
+
+.mark {
+    position: absolute;
+    z-index: -1; 
+    background-color: yellowgreen;
+    width: 26%;
+       left: 58%;
+       height: 75%; 
+       top:0 vh;
+   }
+.links {margin-left: 7%; padding-top: 5%;}
+  a{text-decoration: none; color: black;  z-index: 0; padding-left: 5% ;}
+.profile{ z-index:1; width:55vh; height: 58vh; float: right;
+       margin-top: 30vh; margin-right:17vh;}
+.paras{margin-right:60%; margin-left: 5%; margin-top:18%;}
+.first_heading{font: bold  7vh sans-serif;line-height: 0;
+  }
+.first_para{margin-top:0;}
+.first_button{border: none; background-color: yellowgreen; color:white; 
+    font-family: sans-serif; margin-top: 4px;
+    padding-top: 2vh; padding-left: 4vh; padding-right: 4vh; padding-bottom: 2vh; border-radius: 4px;
+}
+.second_div{margin-top: 5%;  
+  }
+  .bg{ z-index: -1; margin-right: 80%; position: absolute;margin-top: 5%; width:23%; height:35%;}
+.second_heading{ font: bold 12vh sans-serif; 
+  margin-left: 10%; float: left;z-index: 1;
+  }
+.hustle{ margin-top: 13%; margin-left:38%; 
+    font-family: sans-serif;}
+.sub_head{
+    color: yellowgreen;}
+.school{margin-right:38%; font-family: serif;}
+.work{text-align: center; font-family: sans-serif; margin-top: 10%;}
+.sub_head2{font-size: 7vh;}
+.about_work{ margin-right: 25%; margin-left: 25%; margin-top: 5%; font-family: serif;}
+.web_dev{margin-top: 10%; margin-left: 19%;}
+.recipe{position: relative; width: 20vh; height: auto; margin-right: 85%;
+   z-index: -1; margin-top:2vh;}
+.rcp{float:left;}
+.patch1{background-color: yellowgreen; position: absolute;
+        width:4vh; height:6vh; margin-left: 1%;
+         z-index:2;}
+.con_recipe{font-size: 2vh;}
+.link_recipe{font-family: serif; text-decoration: none; color: yellowgreen; font-size: 2vh;}
+.emo{margin-left: 15%; float: left;}
+.emoji{position: relative; width: 20vh; height: auto; 
+  z-index: -1; margin-top:2vh;}
+.patch2{background-color: yellowgreen; position: absolute;
+    width:4vh; height:6vh; margin-left:2vh ;
+     z-index:2;}
+.con_emoji{ font-size: 2vh;}
+.link_emoji{font-family: serif; text-decoration: none; color: yellowgreen; font-size: 2vh;}
+.num{margin-left:63%;}
+.number{position: relative; width: 20vh; height: auto; 
+    z-index: -1; margin-top:2vh;}
+.patch3{background-color: yellowgreen; position: absolute;
+      width:4vh; height:6vh; margin-left:2vh ;
+       z-index:2;}
+.link_number{font-family: serif; text-decoration: none; color: yellowgreen; font-size: 2vh;}
+.con_number{ font-size: 2vh;}
+.rps{float: left;}
+.rockps{position: relative; width: 20vh; height: auto; 
+      z-index: -1; margin-top:2vh;}
+.patch4{background-color: yellowgreen; position: absolute;
+        width:4vh; height:6vh; margin-left:2vh ;
+         z-index:2;}
+.link_rps{font-family: serif; text-decoration: none; color: yellowgreen; font-size: 2vh;}
+.con_rps{ font-size: 2vh;}
+.poke{margin-left: 20%; float: left;}
+.pokemon{position: relative; width: 20vh; height: auto; 
+  z-index: -1; margin-top:2vh;}
+.patch5{background-color: yellowgreen; position: absolute;
+    width:4vh; height:6vh; margin-left:2vh ;
+     z-index:2;}
+.con_poke{ font-size: 2vh;}
+.link_poke{font-family: serif; text-decoration: none; color: yellowgreen; font-size: 2vh;}
+.e_card{margin-left:63%;}
+.card{position: relative; width: 20vh; height: auto; 
+    z-index: -1; margin-top:2vh;}
+.patch6{background-color: yellowgreen; position: absolute;
+      width:4vh; height:6vh; margin-left:2vh ;
+       z-index:2;}
+.link_card{font-family: serif; text-decoration: none; color: yellowgreen; font-size: 2vh;}
+.con_card{ font-size: 2vh;}
+.proud{margin-top: 3%;font:bold 2vh sans-serif;}
+.patch7{ position:absolute; background-color: yellowgreen; 
+  width:33%; height:50%; margin-left: 67%;float: right;}
+.proud_head{color:white;
+            font: bold 12vh sans-serif; 
+            padding-left: 8%;
+          margin-top: 5%;}
+.top{float:left; margin-left: 10%;}
+.hr1{border-top: 2px solid black;width:8%;margin-right: 92%;}
+.perform{margin-left: 35%;}
+.hr2{ border-top: 2px solid black;width:2%;margin-right: 98%}
+.prograd{margin-top: 6%; float:left; margin-left: 10%;}
+.vice{margin-top: 8%; margin-left: 35%;}
+.include{margin-top: 6%; margin-left: 10%;}
+.hr3{width:1.5%; margin-right: 98.5%; border-top: 2px solid black;}
+.side_hustle{margin-left:10%; margin-top: 18%; float:left;}
+.head_side{font: bold 12vh sans-serif;
+           color:yellowgreen; margin-bottom: 0%;
+          }
+.con_side{margin-top:2%; font: bold 2vh sans-serif;}
+.png_side_hustle{margin-top: 10%;}
+.first_row{float:left; position: absolute; margin-left: 74%;}
+.friends{width:40vh;}
+.badminton{width:40vh;}
+.reading{width: 40vh;}
+.second_row{position:relative; padding-right:25%; margin-left: 51.5%; padding-top: 3.2%;}
+.guitar{width:48vh; height:56vh;}
+.painting{width: 48vh; height:32vh;}
+.patch8{position: absolute;
+  background-color: yellowgreen;
+  margin-top:8%;
+        width:37%;
+        height:35%;
+      float: left;}
+
+.contact{font: bold 7vh sans-serif;
+         color: white; 
+         padding-left: 20%;
+        padding-top:5%;
+      line-height: 0.5;
+    margin-bottom: 2%;}
+.email_add{color:white; font: 2vh sans-serif;}
+.symbol{padding-left: 25%;}
+.facebook{width:5%; height:5%;float:left;}
+.instagram{width:5%; height:5%;float:left;padding-left: 2%;}
+.youtube{width:6%; height:7%;padding-left:2%;}
+.rights{margin-left: 85%; margin-top: 20%; font:bold 2vh serif;}
